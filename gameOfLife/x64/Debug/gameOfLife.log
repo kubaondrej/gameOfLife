@@ -1,3 +1,4 @@
 ﻿  gameOfLife.cpp
-C:\Users\kubao\source\repos\gameOfLife\gameOfLife.cpp(32,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  gameOfLife.vcxproj -> C:\Users\kubao\source\repos\gameOfLife\x64\Debug\gameOfLife.exe
+C:\Users\kubao\Documents\git-repo\gameOfLife\gameOfLife.cpp(39,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kubao\Documents\git-repo\gameOfLife\gameOfLife.cpp(110,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gameOfLife.vcxproj -> C:\Users\kubao\Documents\git-repo\gameOfLife\x64\Debug\gameOfLife.exe
